@@ -72,8 +72,8 @@
 ## 📊 My Github Stats
  
 <p align="center">
-    <a href="https://github.com/xdragon2002/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=xdragon2002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Selenophile-ishan/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Selenophile-ishan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  
@@ -81,8 +81,8 @@
 
 
   <br/>
-    <a href="https://github.com/xdragon2002/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=xdragon2002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/xdragon2002/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdragon2002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Selenophile-ishan/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Selenophile-ishan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Selenophile-ishan/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selenophile-ishan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
@@ -90,7 +90,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/xdragon2002/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=XDRAGON2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Selenophile-ishan/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Selenophile-ishan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
 <br/>
 <br/>
@@ -105,4 +105,4 @@
 </p>
  
 ## ❤ Views and Followers
-<a href="https://github.com/xdragon2002?tab=followers"><img src="https://img.shields.io/github/followers/xdragon2002?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/xdragon2002)  
+<a href="https://github.com/Selenophile-ishan?tab=followers"><img src="https://img.shields.io/github/followers/Selenophile-ishan?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/Selenophile-ishan)  
