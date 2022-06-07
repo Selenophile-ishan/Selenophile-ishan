@@ -6,17 +6,14 @@
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Deep Reinforcement Learning**
+- 🌱 I’m currently learning **App and Web development**
  
 - 🔥 I'm also enhancing myself in the field of **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
- 
-- 🖋️ I love to write technology-based articles, check them out at **[Medium](https://medium.com/@anantvijay3)** 
 
-- 📫 Reach out to me at my **<a href="mailto:anantvijay3@gmail.com">Email</a>**
- 
-- 🧑 More of me at my **[Portfolio Website](https://dragon2002.vercel.app)**
+- 📫 Reach out to me at my **<a href="mailto:ishandhingra85@gmail.com">Email</a>**
+
  
 ## 🚀 Languages and Tools:
 
@@ -28,18 +25,9 @@
    <img src="https://img.icons8.com/color/96/000000/css3.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/c-programming.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/html-5.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/golang.png" width=45 height=45></img>
    <img src="https://img.icons8.com/plasticine/100/000000/react.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width=45 height=45></img>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/redux.png" width=45 height=45></img>
    <img src="https://images.ctfassets.net/hb3id6ag4raq/6NcXL0fTlSXR9tVL14LYJ/c6a2a3dea44cbf46826cd6d5596b5797/apple-touch-icon.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/fluency/96/000000/gatsbyjs.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/material-ui.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/firebase.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/django.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/fluency/96/000000/flask.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/000000/nodejs.png" width=45 height=45></img>
    <img src="https://camo.githubusercontent.com/6686b9ef0e21e13c9e7c846340303765c0f36e40a0490bcad453ea9d0d433ea0/68747470733a2f2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67" width=45 height=45></img>
 <!--    <img src="https://img.icons8.com/color/96/000000/graphql.png" width=45 height=45></img>
    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width=45 height=45></img>
@@ -60,11 +48,8 @@
    <img src="https://img.icons8.com/color/96/000000/git.png" width=45 height=45></img>
    <img src="https://img.icons8.com/material-outlined/96/ffffff/github.png" width=45 height=45></img> -->
    <img src="https://img.icons8.com/color/96/000000/linux--v1.png" width=45 height=45></img>
-   <img src="https://cdn2.hubspot.net/hubfs/4367560/Imported_Blog_Media/scrapy.png" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/latex.png" width=45 height=45></img>
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width=45 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" width=45 height=45></img>
-   <img src="https://img.icons8.com/color/96/4a90e2/kali-linux.png" width=45 height=45></img>
    <img src="https://img.icons8.com/doodle/96/000000/canva.png" width=45 height=45></img>
    <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width=45 height=45></img>
 </p>
